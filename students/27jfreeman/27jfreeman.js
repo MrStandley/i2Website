@@ -1,6 +1,6 @@
 // Your Details
 const scholar_name = "Jack Freeman"; // This name is used right next to your photo
-const graduation_year = ¨2027¨; // Replace 2000 with your full graduation year. Eg. 2025
+const graduation_year = 2027; // Replace 2000 with your full graduation year. Eg. 2025
 const unique_id = "27jfreeman";// The beginning of your email
 
 // Website Elements
