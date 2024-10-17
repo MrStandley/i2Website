@@ -1,7 +1,7 @@
 // Your Details
-const scholar_name = "YOUR NAME HERE IN THESE QUOTES"; // This name is used right next to your photo
-const graduation_year = 2000; // Replace 2000 with your full graduation year. Eg. 2025
-const unique_id = "##xxxxx";// The beginning of your email
+const scholar_name = "Alexander Chang"; // This name is used right next to your photo
+const graduation_year = 2027; // Replace 2000 with your full graduation year. Eg. 2025
+const unique_id = "27achang";// The beginning of your email
 
 // Website Elements
 const header_background = "FILE EXTENSION ON REPOSITORY HERE IN THESE QUOTES"; // The background image set behind your name, graduation year, and "avatar"
