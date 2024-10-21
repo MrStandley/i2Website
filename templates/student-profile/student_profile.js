@@ -4,7 +4,7 @@ const graduation_year = 2000; // Replace 2000 with your full graduation year. Eg
 const unique_id = "##xxxxx";// The beginning of your email
 
 // Website Elements
-const header_background = "FILE EXTENSION ON REPOSITORY HERE IN THESE QUOTES"; // The background image set behind your name, graduation year, and "avatar"
+const header_background = "../../assets/backgrounds/FILE EXTENSION HERE IN THESE QUOTES"; // The background image set behind your name, graduation year, and "avatar"
 
 // HTML DOM Variables
 const title = document.querySelector("title");
